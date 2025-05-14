@@ -29,10 +29,12 @@ Node.js y le añadiremos funcionalidades como:
 │   ├── personalities/  # Archivos JSON con personalidades
 │   ├── bot.js          # Configuración del bot
 ├── .env                # Variables de entorno (API KEY, TOKEN)
-├── package.json```
+├── package.json
+```
 
 # Código Base
 basch 
-```npm init -y
-npm install discord.js axios dotenv```
+
+npm init -y
+npm install discord.js axios dotenv
 
