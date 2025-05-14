@@ -20,7 +20,8 @@ Node.js y le añadiremos funcionalidades como:
     API Key de DeepSeek (si tienen API pública; si no, podemos simular respuestas).
 
 # 2. Estructura del Proyecto
-deepseek-discord-bot/
+
+```deepseek-discord-bot/
 ├── node_modules/
 ├── src/
 │   ├── commands/       # Comandos de Discord (/chat, /personality)
@@ -28,10 +29,10 @@ deepseek-discord-bot/
 │   ├── personalities/  # Archivos JSON con personalidades
 │   ├── bot.js          # Configuración del bot
 ├── .env                # Variables de entorno (API KEY, TOKEN)
-├── package.json
+├── package.json```
 
 # Código Base
 basch 
-npm init -y
-npm install discord.js axios dotenv
+```npm init -y
+npm install discord.js axios dotenv```
 
