@@ -35,6 +35,7 @@ Node.js y le añadiremos funcionalidades como:
 # Código Base
 basch 
 
-npm init -y
-npm install discord.js axios dotenv
+```npm init -y
+
+   npm install discord.js axios dotenv```
 
