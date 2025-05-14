@@ -36,6 +36,5 @@ Node.js y le añadiremos funcionalidades como:
 basch 
 
 ```npm init -y
-
    npm install discord.js axios dotenv```
 
