@@ -44,5 +44,4 @@ basch
 
 # Registro de Comandos (deploy-commands.js)
 Crea este archivo para registrar los comandos en Discord
-
-```node deploy-commands.js
+```node deploy-commands.js```
